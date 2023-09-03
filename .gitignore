@@ -1,0 +1,9 @@
+HELP.md
+README.txt
+bin/
+### ECLIPSE ###
+.classpath
+.project
+.settings
+### VS Code ###
+.vscode/
