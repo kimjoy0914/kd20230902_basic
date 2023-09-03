@@ -1,6 +1,7 @@
 HELP.md
 README.txt
 bin/
+*.txt
 ### ECLIPSE ###
 .classpath
 .project
